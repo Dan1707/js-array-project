@@ -6,7 +6,7 @@ function revStrFunc(str) {
   }
   console.log(strRev);
 }
-revStrFunc();
+revStrFunc("124");
 ////////////////////////// TASK #2 //////////////////////////
 const userList = [
   {
@@ -22,7 +22,7 @@ const userList = [
   {
     userName: "Bob",
     age: 40,
-    status: "active",
+    status: "unactive",
   },
 ];
 
