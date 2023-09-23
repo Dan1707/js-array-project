@@ -6,7 +6,7 @@ function revStrFunc(str) {
   }
   console.log(strRev);
 }
-revStrFunc("124");
+revStrFunc("1234");
 ////////////////////////// TASK #2 //////////////////////////
 const userList = [
   {
